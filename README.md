@@ -276,8 +276,12 @@ The Next Best Skill decision engine identifies missing skills classified as <str
 
 ## 👥 Authors & Acknowledgments
 
-- **Lead Developer & Researcher**: [rshamith777-cpu](https://github.com/rshamith777-cpu)
-- **Institution**: 7th Semester B.E. / B.Tech Computer Science & Engineering
+- **Lead Developers & Researchers**:
+  - **Shamith R** ([@rshamith777-cpu](https://github.com/rshamith777-cpu))
+  - **Vinay S**
+  - **Yesunath Reddy K A**
+- **Academic Program**: 7th Semester B.E. / B.Tech Computer Science & Engineering
+- **Department**: Department of Computer Science & Engineering
 - **Domain**: Machine Learning, Natural Language Processing & Educational Data Mining
 
 ---
