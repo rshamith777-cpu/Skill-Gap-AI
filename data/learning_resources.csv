@@ -1,0 +1,36 @@
+skill,resource_name,type,platform,difficulty,cost,url
+Python,Python Official Tutorial,Documentation,Python.org,Beginner,Free,https://docs.python.org/3/tutorial/
+Python,Python for Everybody (Charles Severance),Course,Coursera / FreeCodeCamp,Beginner,Free,https://www.py4e.com/
+NumPy,NumPy Quickstart & User Guide,Documentation,NumPy.org,Beginner,Free,https://numpy.org/doc/stable/user/quickstart.html
+Pandas,Pandas 10-Minute Walkthrough,Documentation,Pandas PyData,Beginner,Free,https://pandas.pydata.org/docs/user_guide/10min.html
+Scikit-learn,Scikit-Learn Machine Learning in Python,Documentation,Scikit-Learn.org,Intermediate,Free,https://scikit-learn.org/stable/tutorial/
+Machine Learning,Machine Learning Specialization Notes,Course,Stanford Online / DeepLearning.AI,Intermediate,Free,https://www.coursera.org/specializations/machine-learning-introduction
+Deep Learning,Deep Learning Specialization (Andrew Ng),Course,Coursera / YouTube,Intermediate,Free,https://www.deeplearning.ai/courses/deep-learning-specialization/
+TensorFlow,TensorFlow Core Tutorials,Documentation,TensorFlow.org,Intermediate,Free,https://www.tensorflow.org/tutorials
+PyTorch,PyTorch Deep Learning with PyTorch: A 60 Minute Blitz,Documentation,PyTorch.org,Intermediate,Free,https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+NLP,Hugging Face NLP Course,Course,Hugging Face,Intermediate,Free,https://huggingface.co/learn/nlp-course
+Computer Vision,OpenCV Python Tutorials,Documentation,OpenCV.org,Intermediate,Free,https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+Statistics,Khan Academy Statistics and Probability,Course,Khan Academy,Beginner,Free,https://www.khanacademy.org/math/statistics-probability
+Probability,MIT OpenCourseWare Introduction to Probability,Course,MIT OCW,Intermediate,Free,https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/
+Feature Engineering,Kaggle Feature Engineering Micro-Course,Tutorial,Kaggle Learn,Intermediate,Free,https://www.kaggle.com/learn/feature-engineering
+Model Deployment,FastAPI ML Model Serving Guide,Tutorial,FastAPI Docs,Intermediate,Free,https://fastapi.tiangolo.com/tutorial/
+MLOps,Made With ML - MLOps Course,Course,Goku Mohandas,Advanced,Free,https://madewithml.com/
+SQL,Mode Analytics SQL Tutorial for Data Analysis,Practice,Mode Analytics,Beginner,Free,https://mode.com/sql-tutorial/
+Excel,Excel Easy - Tutorials and Formulas,Tutorial,Excel Easy,Beginner,Free,https://www.excel-easy.com/
+Power BI,Microsoft Power BI Guided Learning,Documentation,Microsoft Learn,Beginner,Free,https://learn.microsoft.com/power-bi/
+Tableau,Tableau Free Training Videos,Video Tutorial,Tableau.com,Beginner,Free,https://www.tableau.com/learn/training
+Data Visualization,Storytelling with Data & Matplotlib Guide,Tutorial,Matplotlib.org,Beginner,Free,https://matplotlib.org/stable/tutorials/index.html
+Data Cleaning,Data Wrangling with Pandas Guide,Tutorial,Kaggle Learn,Beginner,Free,https://www.kaggle.com/learn/data-cleaning
+Data Structures,NeetCode 150 & Algorithms Roadmap,Practice,NeetCode,Intermediate,Free,https://neetcode.io/roadmap
+Algorithms,MIT 6.006 Introduction to Algorithms,Course,MIT OCW,Intermediate,Free,https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/
+OOP,Object Oriented Programming with Python/Java,Tutorial,GeeksforGeeks,Beginner,Free,https://www.geeksforgeeks.org/object-oriented-programming-in-python/
+Git,Pro Git Book by Scott Chacon and Ben Straub,Book,Git-SCM,Beginner,Free,https://git-scm.com/book/en/v2
+Linux,Linux Journey - Learn Linux Command Line,Tutorial,Linux Journey,Beginner,Free,https://linuxjourney.com/
+Networking,Professor Messer CompTIA Network+ Training,Video Course,YouTube,Beginner,Free,https://www.professormesser.com/network-plus/n10-008/n10-008-video/
+Cybersecurity Fundamentals,OverTheWire Wargames & TryHackMe Pre-Security,Practice,OverTheWire,Beginner,Free,https://overthewire.org/wargames/
+Cryptography,Crypto101 - Introductory Course on Cryptography,Book,Crypto101.io,Intermediate,Free,https://www.crypto101.io/
+Security Tools,Wireshark Official User Guide & Labs,Documentation,Wireshark.org,Intermediate,Free,https://www.wireshark.org/docs/wsug_html_chunked/
+Threat Detection,Splunk Free Training & SOC Fundamentals,Tutorial,Splunk / Cybrary,Intermediate,Free,https://www.cybrary.it/
+Cloud Fundamentals,AWS Skill Builder Cloud Practitioner Essentials,Course,Amazon AWS,Beginner,Free,https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
+Docker,Docker Getting Started Tutorial,Documentation,Docker Docs,Beginner,Free,https://docs.docker.com/get-started/
+Kubernetes,Kubernetes Basics Interactive Tutorials,Tutorial,Kubernetes.io,Intermediate,Free,https://kubernetes.io/docs/tutorials/kubernetes-basics/

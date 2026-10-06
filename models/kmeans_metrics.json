@@ -1,0 +1,88 @@
+{
+  "model_name": "K-Means Clustering",
+  "n_clusters": 5,
+  "silhouette_score": 0.1889,
+  "total_samples": 1500,
+  "cluster_profiles": {
+    "0": {
+      "name": "Beginner Technical Foundation",
+      "size": 249,
+      "percentage": 16.6,
+      "top_skills": [
+        "Kubernetes",
+        "Virtualization",
+        "Aws",
+        "Cloud Fundamentals",
+        "Docker",
+        "Azure",
+        "Gcp",
+        "Networking"
+      ],
+      "description": "Students emphasizing Kubernetes, Virtualization, Aws, Cloud Fundamentals."
+    },
+    "1": {
+      "name": "Data Analytics & Business Intelligence",
+      "size": 245,
+      "percentage": 16.3,
+      "top_skills": [
+        "Vulnerability Assessment",
+        "Cryptography",
+        "Threat Detection",
+        "Cybersecurity Fundamentals",
+        "Siem",
+        "Ethical Hacking",
+        "Networking",
+        "Security Tools"
+      ],
+      "description": "Students emphasizing Vulnerability Assessment, Cryptography, Threat Detection, Cybersecurity Fundamentals."
+    },
+    "2": {
+      "name": "Software Engineering & Full-Stack",
+      "size": 480,
+      "percentage": 32.0,
+      "top_skills": [
+        "Machine Learning",
+        "Numpy",
+        "Learn",
+        "Scikit",
+        "Deep Learning",
+        "Nlp",
+        "Pandas",
+        "Sql"
+      ],
+      "description": "Students emphasizing Machine Learning, Numpy, Learn, Scikit."
+    },
+    "3": {
+      "name": "AI, Machine Learning & Deep Learning",
+      "size": 279,
+      "percentage": 18.6,
+      "top_skills": [
+        "Power Bi",
+        "Data Cleaning",
+        "Excel",
+        "Data Visualization",
+        "Statistics",
+        "Tableau",
+        "Probability",
+        "Pandas"
+      ],
+      "description": "Students emphasizing Power Bi, Data Cleaning, Excel, Data Visualization."
+    },
+    "4": {
+      "name": "Cloud Infrastructure & Cybersecurity Systems",
+      "size": 247,
+      "percentage": 16.5,
+      "top_skills": [
+        "Data Structures",
+        "Javascript",
+        "Java",
+        "Algorithms",
+        "C",
+        "Oop",
+        "Rest Api",
+        "Agile"
+      ],
+      "description": "Students emphasizing Data Structures, Javascript, Java, Algorithms."
+    }
+  }
+}

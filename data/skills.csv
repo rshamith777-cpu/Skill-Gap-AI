@@ -1,0 +1,51 @@
+skill,category,synonyms
+Python,Programming,python|py|python3
+NumPy,ML/AI,numpy|np
+Pandas,Data,pandas|pd
+Scikit-learn,ML/AI,scikit-learn|sklearn|scikit learn
+Machine Learning,ML/AI,machine learning|ml|statistical learning
+Deep Learning,ML/AI,deep learning|dl|neural networks|artificial neural networks
+TensorFlow,ML/AI,tensorflow|tf|tf2
+PyTorch,ML/AI,pytorch|torch|py torch
+NLP,ML/AI,nlp|natural language processing|text mining|computational linguistics
+Computer Vision,ML/AI,computer vision|cv|image processing|opencv
+Statistics,Math/Stats,statistics|stats|inferential statistics|hypothesis testing
+Probability,Math/Stats,probability|bayesian|probabilistic models
+Feature Engineering,ML/AI,feature engineering|data preprocessing|dimensionality reduction
+Model Deployment,ML/AI,model deployment|serving|fastapi|flask ml|model serving
+MLOps,ML/AI,mlops|mlflow|dvc|kubeflow|wandb
+SQL,Data,sql|postgresql|mysql|sqlite|t-sql
+Excel,Data,excel|ms excel|spreadsheets|vlookup
+Power BI,Data,power bi|powerbi|power-bi
+Tableau,Data,tableau|tableau desktop
+Data Visualization,Data,data visualization|matplotlib|seaborn|plotly
+Data Cleaning,Data,data cleaning|data wrangling|data munging
+Data Structures,Programming,data structures|dsa|trees|graphs|linked lists
+Algorithms,Programming,algorithms|algorithm design|dynamic programming
+OOP,Programming,oop|object-oriented programming|object oriented
+Java,Programming,java|core java|j2se
+C++,Programming,c++|cpp
+JavaScript,Programming,javascript|js|es6|typescript
+Git,DevOps,git|github|gitlab|version control
+REST API,Programming,rest api|restful|api design|fastapi|express
+Linux,DevOps,linux|ubuntu|bash|shell scripting
+Networking,Security,networking|tcp/ip|dns|protocols|osi model
+Cybersecurity Fundamentals,Security,cybersecurity|information security|infosec
+Cryptography,Security,cryptography|encryption|aes|rsa|hashing
+Security Tools,Security,security tools|wireshark|nmap|metasploit|burp suite
+Threat Detection,Security,threat detection|incident response|malware analysis
+Vulnerability Assessment,Security,vulnerability assessment|penetration testing|vulnerability scanning
+SIEM,Security,siem|splunk|qradar|elk security
+Ethical Hacking,Security,ethical hacking|pentesting|white hat
+Cloud Fundamentals,Cloud,cloud fundamentals|cloud computing|cloud architecture
+AWS,Cloud,aws|amazon web services|ec2|s3
+Azure,Cloud,azure|microsoft azure
+GCP,Cloud,gcp|google cloud|google cloud platform
+Virtualization,Cloud,virtualization|docker|containers|vmware
+Docker,DevOps,docker|containerization|dockerfile
+Kubernetes,DevOps,kubernetes|k8s|container orchestration
+CI/CD,DevOps,ci/cd|github actions|jenkins|continuous integration
+Communication,Soft Skills,communication|verbal communication|written communication
+Problem Solving,Soft Skills,problem solving|analytical thinking|critical thinking
+Teamwork,Soft Skills,teamwork|collaboration|cross-functional collaboration
+Agile,Soft Skills,agile|scrum|kanban|sprint planning

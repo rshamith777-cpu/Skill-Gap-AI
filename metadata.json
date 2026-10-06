@@ -1,0 +1,6 @@
+{
+  "name": "SkillGapAI - Future Skill Gap Analyzer & Roadmap",
+  "description": "AI-based future skill gap analyzer, career readiness predictor, and personalized career roadmap recommendation system for engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

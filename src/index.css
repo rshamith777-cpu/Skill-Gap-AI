@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #f8fafc;
+    color: #1e293b;
+    font-size: 14px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+    letter-spacing: -0.02em;
+    color: #0f172a;
+  }
+
+  code, pre, .font-mono {
+    font-family: 'IBM Plex Mono', Menlo, Monaco, Consolas, monospace;
+  }
+
+  /* Boost low-contrast faint grey texts so everything is bold and clear to read */
+  .text-slate-400 {
+    color: #475569 !important; /* dark slate instead of light gray */
+  }
+
+  .text-slate-500 {
+    color: #334155 !important; /* high-contrast slate */
+  }
+
+  /* Prevent text from becoming unreadably tiny */
+  .text-\[11px\], .text-\[10px\] {
+    font-size: 12px !important;
+    font-weight: 500;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #94a3b8;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #6366f1;
+}

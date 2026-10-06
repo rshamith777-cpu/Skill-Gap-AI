@@ -1,0 +1,96 @@
+{
+  "model_name": "Random Forest Classifier (Ensemble)",
+  "accuracy": 0.9667,
+  "precision": 0.9679,
+  "recall": 0.9667,
+  "f1_score": 0.9667,
+  "classes": [
+    "Beginner",
+    "Developing",
+    "Intermediate",
+    "Job Ready"
+  ],
+  "feature_names": [
+    "skill_count",
+    "core_coverage_ratio",
+    "experience_years",
+    "projects_count",
+    "certifications_count",
+    "education_score"
+  ],
+  "feature_importances": {
+    "skill_count": 0.2795,
+    "core_coverage_ratio": 0.093,
+    "experience_years": 0.3189,
+    "projects_count": 0.2275,
+    "certifications_count": 0.0758,
+    "education_score": 0.0054
+  },
+  "confusion_matrix": [
+    [
+      60,
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      90,
+      1,
+      0
+    ],
+    [
+      0,
+      2,
+      92,
+      0
+    ],
+    [
+      0,
+      0,
+      4,
+      48
+    ]
+  ],
+  "classification_report": {
+    "Beginner": {
+      "precision": 1.0,
+      "recall": 0.9523809523809523,
+      "f1-score": 0.975609756097561,
+      "support": 63
+    },
+    "Developing": {
+      "precision": 0.9473684210526315,
+      "recall": 0.989010989010989,
+      "f1-score": 0.967741935483871,
+      "support": 91
+    },
+    "Intermediate": {
+      "precision": 0.9484536082474226,
+      "recall": 0.9787234042553191,
+      "f1-score": 0.963350785340314,
+      "support": 94
+    },
+    "Job Ready": {
+      "precision": 1.0,
+      "recall": 0.9230769230769231,
+      "f1-score": 0.9600000000000001,
+      "support": 52
+    },
+    "accuracy": 0.9666666666666667,
+    "macro avg": {
+      "precision": 0.9739555073250135,
+      "recall": 0.9607980671810459,
+      "f1-score": 0.9666756192304364,
+      "support": 300
+    },
+    "weighted avg": {
+      "precision": 0.9678838849701573,
+      "recall": 0.9666666666666667,
+      "f1-score": 0.9666763486172272,
+      "support": 300
+    }
+  },
+  "train_samples": 1200,
+  "test_samples": 300
+}
